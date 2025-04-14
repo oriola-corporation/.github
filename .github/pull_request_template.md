@@ -1,5 +1,5 @@
 ## JIRA ticket number
-https://kronanecommerce.atlassian.net/browse/SMEK-XXXX
+https://kronansapotek.atlassian.net/browse/SMEK-XXXX
 
 ## What? 
 Describe what was changed
